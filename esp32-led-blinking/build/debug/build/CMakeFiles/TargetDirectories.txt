@@ -1,0 +1,3 @@
+C:/Users/nazmi/Documents/Code/stm32-vscode-testing/build/debug/build/CMakeFiles/stm32-vscode-testing.dir
+C:/Users/nazmi/Documents/Code/stm32-vscode-testing/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/nazmi/Documents/Code/stm32-vscode-testing/build/debug/build/CMakeFiles/rebuild_cache.dir
